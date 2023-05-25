@@ -17,3 +17,6 @@ the "Deliver" stage of your Pipeline comentario
 the "Deliver" stage of your Pipeline.
 
 to push xd
+
+
+Cambio Carlos Alegria
